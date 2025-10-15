@@ -1,0 +1,1 @@
+global using Volo.Abp.Modularity;
